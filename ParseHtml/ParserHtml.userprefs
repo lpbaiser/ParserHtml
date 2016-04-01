@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParseHtml/Program.cs">
+    <Files>
+      <File FileName="ParseHtml/Program.cs" Line="13" Column="47" />
+      <File FileName="ParseHtml/Scrapy/ParseHtml.cs" Line="62" Column="1" />
+      <File FileName="ParseHtml/Scrapy/Informacoes.cs" Line="11" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ParserHtml" expanded="True">
+            <Node name="Scrapy" expanded="True" />
+            <Node name="Program.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

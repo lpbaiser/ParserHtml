@@ -1,0 +1,20 @@
+Boa tarde pessoal!
+
+Para a resolução do 2º exercício do trabalho 1, utilizem a seguinte página para a realização da extração de informações:
+http://www.utfpr.edu.br/campomourao
+
+Eu quero as seguintes informações extraídas desta página (e de subpáginas quando necessário):
+
+OK - As últimas 2 notícias (coluna do meio) (Título, texto (subpágina) e data de publicação/atualização de cada uma (subpágina));
+
+OK - As três últimas informações institucionais (coluna da direita) (título, texto (subpágina) e link para a informação);
+
+OK (Faltou retirar o link do fim do texto) - Texto de apresentação que está dentro do link "O CÂMPUS";
+
+OK - Endereço completo do câmpus (rodapé).
+
+O método de extração de cada conteúdo deve estar claro e documentado no código.
+
+Até logo,
+Rodrigo Hübner
+
