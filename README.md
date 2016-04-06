@@ -19,10 +19,12 @@ Neste programa utilizamos a linguagem de programação C# com o compilador mono,
 
 + 2 Implementar o método ExtractNoticias.
   - Escrever a configuração do XPath para parsing das notícias.
-  - Iterar sobre a coleção de nós retornadas da chamada de método, afim pegar as duas útimas notícias.
+  - Iterar sobre a coleção de nós retornadas da chamada de método, afim de pegar as duas útimas notícias.
   - Retornar um List<Informacoes> contendo as informações requisitadas.
 + 3 Implementar o método ExtractInformacoesInstitucionais.
-  - Escrever a 
+  - Escrever a configuração do XPath para parsing das informações institucionais.
+  - Iterar sobre a coleção de nós retornados da chamada de método, afim de pegar as três últimas notícias.
+  - Retornar um List<Informacao> contendo as informações requisitadas.
   
 
 
